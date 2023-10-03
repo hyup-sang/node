@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "index": "node test.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.5",
+    "slug": "^1.1.0",
+    "superagent": "^5.2.2"
+  }
+}
