@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "index": "node spider-cli.js http://www.example.com 2"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.88.0",
+    "slug": "^1.1.0"
+  }
+}
