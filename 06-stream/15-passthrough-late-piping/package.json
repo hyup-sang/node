@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "index": "node upload-cli.js ss.txt"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.606.0",
+    "axios": "^0.19.2"
+  }
+}
